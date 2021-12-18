@@ -1,0 +1,13 @@
+sns.load_dataset(“iris“)报错，如何解决
+
+原因：seaborn-data 文件夹是空的。
+
+seaborn-data文件夹在哪里？
+C:\Users\86182\seaborn-data
+
+解决：
+从https://github.com/mwaskom/seaborn-data下载数据集
+放到对应上面的文档中
+
+
+参考bloc:https://www.heywhale.com/mw/project/5f4b3f146476cf0036f7e51e
